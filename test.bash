@@ -1,5 +1,5 @@
 #!/bin/bash -xv
-# SPDX-FileCopyrightText: 2022 Ryuichi Ueda
+# SPDX-FileCopyrightText: 2022 Soichiro Suzuki
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {
@@ -11,7 +11,6 @@ res=0
 
 ### I/O TEST ###
 out=$(seq 5 | ./plus)
-
 [ "${out}" = 14 ] || ng ${LINENO}
 
 ### STRANGE INPUT ###
