@@ -8,7 +8,8 @@
 * Ubuntu18.04をダウンロード
 
 ## インストールの手順
-* Ubuntu内でgitが入っていない場合、「sudo apt install git」を入力しインストール
+* Ubuntu内でgitが入っていない場合、以下のコードを入力しインストール
+	* sudo apt install git
 * Ubuntuで以下のコードを入力
 	* git clone https://github.com/SoichiroS1066/robosys2022
 ## 起動の手順
