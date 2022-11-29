@@ -9,7 +9,7 @@
 ## インストール方法
 * Ubuntu内でgitが入っていない場合、「sudo apt install git」を入力しインストール
 * Ubuntuで以下のコードを入力
-	* 「git clone https://github.com/SoichiroS1066/robosys2022」
+	* git clone https://github.com/SoichiroS1066/robosys2022
 ## 起動の手順
 * 
 ## 使い方の例
