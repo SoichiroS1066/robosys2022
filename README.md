@@ -3,16 +3,16 @@
 
 標準入力から読み込んだ数字を足す。
 
-##ダウンロード方法
+## ダウンロード方法
 * Ubuntu18.04をダウンロード
 
-##インストール方法
+## インストール方法
 * Ubuntu内でgitが入っていない場合、「sudo apt install git」を入力しインストール
 * Ubuntuで以下のコードを入力
 	* 「git clone https://github.com/SoichiroS1066/robosys2022」
 ## 起動の手順
 * 
-##使い方の例
+## 使い方の例
 * １～２までを足したい時　　→　seq 2 | ./plus
 * １～５までを足したい時　　→　seq 5 | ./plus
 * １～１０までを足したい時　→　seq 10 | ./plus
