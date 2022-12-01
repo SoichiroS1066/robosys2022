@@ -9,12 +9,12 @@
 
 ## インストールの手順
 * Ubuntu内でgitが入っていない場合、以下のコードを入力しインストール
-	* sudo apt install git
+  `sudo apt install git`
 * Ubuntuで以下のコードを入力
-	* git clone https://github.com/SoichiroS1066/robosys2022
+  `git clone https://github.com/SoichiroS1066/robosys2022`
 ## 起動の手順
 * インストールの手順を終えたら以下のコードを入力
-	* cd ~/robosys2022
+  `cd ~/robosys2022`
 * 数値を読み込ませて足し算をする ※実行については使用例で説明
 
 ## 使用例
